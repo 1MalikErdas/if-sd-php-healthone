@@ -20,12 +20,12 @@ include_once('defaults/head.php');
         </ol>
     </nav>
     <div class="row gy-3 ">
-        <?php global $categories ?>
+         <?php global $categories ?>
         <?php foreach ($categories as $category): ?>
             <div class="col-sm-4 col-md-3">
                 <div class="card">
                     <div class="card-body text-center">
-                        <a href="/category/<?= $category->id ?>">
+                        <a href="/product/<?= $category->id ?>">
                             <img class="product-img img-responsive center-block" src='/img/<?= $category->picture ?>'/>
                         </a>
                         <div class="card-title mb-3"><?= $category->name ?></div>

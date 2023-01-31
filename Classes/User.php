@@ -5,8 +5,8 @@ class User
     public $id;
     public $email;
     public $password;
-    public $first_name;
-    public $last_name;
+    public $firstname;
+    public $lastname;
     public $role;
 
     public function __construct()

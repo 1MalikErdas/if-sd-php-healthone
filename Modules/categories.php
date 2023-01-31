@@ -10,4 +10,5 @@ function getCategories():array
 function getCategoryName(int $id):string
 {
 
+return true;
 }

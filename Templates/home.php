@@ -15,14 +15,14 @@
                     <?=$message?>
                 </div>
             <?php endif;?>
-            <h4>Sportcenter HealthOne</h4>
-            Fit en gezond zijn is geen vanzelfsprekendheid. We moeten er zelf wat voor doen. Goede, gezonde voeding is hiervoor de basis.
-            Bewegen hoort hier ook bij. Regelmatig bewegen zorgt voor een goede doorbloeding en draagt bij aan ontspanning van lichaam en geest.
-            Sporten is goed voor sterkere spieren en voor de conditie. Sporcenter HealthOne heeft verschillende sportapparaten om mee te kunnen werken aan je conditie.
+            <h4>JeffCars</h4>
+            Voor Volkswagen, Audi, SEAT en SKODA
+            ben je bij dealer JeffCars aan het juiste adres. Wij regelen alles rond jouw mobiliteit.
             <hr>
             <?php
             include_once ('defaults/footer.php');
             ?>
         </div>
+
     </body>
 </html>
