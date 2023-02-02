@@ -15,7 +15,7 @@ include_once('defaults/head.php');
             <?=$message?>
         </div>
     <?php endif;?>
-    <h4>autowinkel login</h4>
+    <h4>horloge login</h4>
     <form method="post">
 
         <div class="form-group">

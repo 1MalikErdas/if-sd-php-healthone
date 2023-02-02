@@ -19,7 +19,7 @@ include_once('defaults/head.php');
                 <p>We zijn bereikbaar via telefoon en email.<br>
                     Of kom gezellig langs in onze showroom.<br><br>
                     <b>Tel: +31687229733</b><br>
-                    <b>Email: info@jeffcars.com</b></p>
+                    <b>Email: info@watchone.com</b></p>
 
             </div>
             <div class="col-md-6 bg-light pt-5">

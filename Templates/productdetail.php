@@ -22,10 +22,7 @@ include_once('defaults/head.php');
             <div class="col-md-6 bg-light pt-5">
                 <p class="text-dark"><?php echo $product->discription?></p>
                 <p class="text-dark">Vanaf: €<?php echo $product->price?>,-</p><br>
-                <p>Configureer uw ideale auto nu hier:
-                </p>
-                <a href="<?= $product->config ?>"target="_blank">
-                    <p>Configureer</p>
+
                 </a><br>
 
             </div>
