@@ -15,9 +15,9 @@ include_once('defaults/head.php');
             <?=$message?>
         </div>
     <?php endif;?>
-    <h4>JeffCars</h4>
-    Voor Volkswagen, Audi, SEAT en SKODA
-    ben je bij dealer JeffCars aan het juiste adres. Wij regelen alles rond jouw mobiliteit.
+    <h4>WatchOne</h4>
+    Verschillende horloges van top kwaliteit,
+    alleen te bevinden hier bij Watchone.
     <hr>
     <?php
     include_once ('defaults/footer.php');

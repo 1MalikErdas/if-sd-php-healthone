@@ -19,7 +19,7 @@ $request = $_SERVER['REQUEST_URI'];
 
 $params = explode("/", $request);
 print_r($request);
-$title = "JeffCars";
+$title = "MuziekOne";
 $titleSuffix = "";
 
 

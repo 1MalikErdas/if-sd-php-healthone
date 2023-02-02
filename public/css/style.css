@@ -15,8 +15,9 @@ body {
     margin-top: 20px
 }
 
-.banner-img {
-    margin-bottom: 20px
+.banner {
+    height: 600px   ;
+    width: 1000px;
 }
 
 .navbar {
